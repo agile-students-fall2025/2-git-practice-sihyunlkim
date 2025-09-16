@@ -1,2 +1,13 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article Recommendation by Sihyun Kim
+
+## Interesting Article in Softeware Development
+
+I found this article very interesting and thought-provoking: [You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
+
+## Why I Found It Interesting  
+
+This article by **Ozan Onay** really made me rethink how often developers fall into the trap of copying what *big tech companies* do, even when it doesn’t fit their own context. Onay explains that **Google’s engineering choices** are driven by their *massive scale, unique problems, and extraordinary resources*, factors that simply don’t apply to most projects.  
+
+> *“What problem does this actually solve for us?”*  
+
+That question stood out to me as a practical test before adopting new tools or architecture patterns. What I took away most is the reminder that software engineering is not about using the **flashiest technology**, but about solving problems in ways that are **appropriate, maintainable, and reliable**. Sometimes the *simplest solution*—the one everyone understands—is the best option, even if it doesn’t look as impressive on a résumé. As someone still learning to **balance ambition with practicality** in my coding projects, I found this perspective both *grounding* and *motivating*.  
